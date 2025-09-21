@@ -13,3 +13,5 @@ This is an arbitrage bot for the Orderly and Binance exchanges that takes advant
 ## Installation
 
 # orderlyBinance-typescript-backend
+
+`If you have some questions in this question, feel free to reach out.`
